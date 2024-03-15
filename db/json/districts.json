@@ -1735,8 +1735,18 @@
     "regency_id": "1204"
   },
   {
+    "id": "120428",
+    "name": "Ma u",
+    "regency_id": "1204"
+  },
+  {
     "id": "120429",
     "name": "Somolo-molo",
+    "regency_id": "1204"
+  },
+  {
+    "id": "120435",
+    "name": "Sogae adu",
     "regency_id": "1204"
   },
   {
@@ -2750,13 +2760,28 @@
     "regency_id": "1214"
   },
   {
+    "id": "121421",
+    "name": "O o u",
+    "regency_id": "1214"
+  },
+  {
     "id": "121422",
     "name": "Onohazumba",
     "regency_id": "1214"
   },
   {
+    "id": "121423",
+    "name": "Hilisalawa ahe",
+    "regency_id": "1214"
+  },
+  {
     "id": "121424",
     "name": "Ulususua",
+    "regency_id": "1214"
+  },
+  {
+    "id": "121425",
+    "name": "Sidua ori",
     "regency_id": "1214"
   },
   {
@@ -3370,6 +3395,11 @@
     "regency_id": "1225"
   },
   {
+    "id": "122504",
+    "name": "Moro o",
+    "regency_id": "1225"
+  },
+  {
     "id": "122505",
     "name": "Mandrehe",
     "regency_id": "1225"
@@ -3382,6 +3412,11 @@
   {
     "id": "122507",
     "name": "Lolofitu Moi",
+    "regency_id": "1225"
+  },
+  {
+    "id": "122508",
+    "name": "Ulu Moro o",
     "regency_id": "1225"
   },
   {
@@ -3677,6 +3712,11 @@
   {
     "id": "127804",
     "name": "Gunungsitoli Idanoi",
+    "regency_id": "1278"
+  },
+  {
+    "id": "127805",
+    "name": "Gunungsitoli Alo oa",
     "regency_id": "1278"
   },
   {
@@ -21150,6 +21190,11 @@
     "regency_id": "5205"
   },
   {
+    "id": "520503",
+    "name": "Hu u",
+    "regency_id": "5205"
+  },
+  {
     "id": "520504",
     "name": "Kilo",
     "regency_id": "5205"
@@ -21547,6 +21592,11 @@
   {
     "id": "530209",
     "name": "Amanatun Utara",
+    "regency_id": "5302"
+  },
+  {
+    "id": "530210",
+    "name": "KI E",
     "regency_id": "5302"
   },
   {
@@ -26405,6 +26455,11 @@
     "regency_id": "7104"
   },
   {
+    "id": "710410",
+    "name": "Tampan  Amma",
+    "regency_id": "7104"
+  },
+  {
     "id": "710411",
     "name": "Salibabu",
     "regency_id": "7104"
@@ -29155,6 +29210,11 @@
     "regency_id": "7326"
   },
   {
+    "id": "732606",
+    "name": "Sa dan",
+    "regency_id": "7326"
+  },
+  {
     "id": "732607",
     "name": "Sanggalangi",
     "regency_id": "7326"
@@ -29177,6 +29237,11 @@
   {
     "id": "732611",
     "name": "Tallunglipu",
+    "regency_id": "7326"
+  },
+  {
+    "id": "732612",
+    "name": "Dende  Piongan Napo",
     "regency_id": "7326"
   },
   {
@@ -34892,6 +34957,11 @@
   {
     "id": "940515",
     "name": "Sinak Barat",
+    "regency_id": "9405"
+  },
+  {
+    "id": "940516",
+    "name": "Mage abume",
     "regency_id": "9405"
   },
   {

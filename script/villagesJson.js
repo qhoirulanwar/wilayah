@@ -35,7 +35,7 @@ function addPropertyVillageId(data) {
     return objekData.map(objek => {
         return {
             ...objek,
-            district_id: objek.id.substring(0, 10)
+            district_id: objek.id.substring(0, 6)
         };
     });
 }
