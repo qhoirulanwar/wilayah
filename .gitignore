@@ -2,3 +2,4 @@
 dump-*
 /inc/db.php
 /src
+.DS_Store
